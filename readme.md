@@ -14,7 +14,7 @@ _IT Consultant, Systems Engineer, and Solution Provider based in Florida_ <br>
 
 ## 👩🏼‍💻 Engineering Experience
 
-**IT Consultant** @ [Mark McDow Computer Consulting LLC](https://www.markmcdow.com.com/) _(Jun 2011 - Present)_ <br>
+**IT Consultant** @ [Mark McDow Computer Consulting LLC](https://www.markmcdow.com/) _(Jun 2011 - Present)_ <br>
 Managed Service Provider, IT Solutions for business and individuals. Consultant for purchasing, upgrading, maintenance, data recovery, and emergency response for PCs and servers running Microsoft, Unix, or Mac OS.
   - Cleaning and Tune-Up
   - Networking
@@ -36,5 +36,30 @@ In support of its educational mission, the local chapter of AITP hosted monthly 
 
   ## 👩🏼‍🎓 Education
 
+**MCSE** Microsoft Certified Systems Engineer<br>
+[Microsoft](https://www.microsoft.com/) -  <br>
+
+**MTA: Security Fundamentals** Microsoft Technology Associate<br>
+[Microsoft](https://www.microsoft.com/) -  <br>
+
+**MTA: Database Administrator** Microsoft Technology Associate<br>
+[Microsoft](https://www.microsoft.com/) -  <br>
+
+**MTA: Cloud Fundamentals** Microsoft Technology Associate<br>
+[Microsoft](https://www.microsoft.com/) -  <br>
+
+**MCSE** Microsoft Certified Solutions Expert<br>
+[Microsoft](https://www.microsoft.com/) -  <br>
+
+**MCSA** Microsoft Certified Solutions Associate<br>
+[Microsoft](https://www.microsoft.com/) -  <br>
+
+**Amateur Radio License, General Class** KN4POZ<br>
+[FCC](https://www.fcc.gov/) - _(2018 - 2028)_ <br>
+
 **Associate of Science** in Computer Information Systems Analysis<br>
-[Santa Fe College](https://www.sfcollege.edu/) - Gainesville, Florida, USA _(1992 - 1996)_ <br>
+[Santa Fe College](https://www.sfcollege.edu/) - Gainesville, Florida, USA _(1996)_ <br>
+
+**Lean Six Sigma White Belt Certification** i<br>
+[CSSC](https://www.microsoft.com/) - The Coucil for Six Sigma Certification <br>
+
