@@ -26,7 +26,7 @@ Managed Service Provider, IT Solutions for business and individuals. Consultant 
   - **_Partnerships:_** Adobe, Avira, Axis, Backblaze, Bitdefender, Brother, Carbonite, CheckPoint, Cloudberry, Code42 CrashPlan, Datto, DreamHost, DropSuite, Esri, Gandi, GoDaddy, Intel, Kaseya, Kaspersky, LastPass, Lenovo, Mozy, OpenDNS, Samsung, Seagate, SkyKick, SolarWinds, SonicWALL, StorageCraft, Tenable, Veeam, Wasabi.
 <br><br>
 
-**Network Engineer** @ [Trinity United Methodist Church](https://www.trinitygnv.org) _(Oct 1994 - Oct 2016)_ <br>
+**Network Engineer** @ [Trinity United Methodist Church](https://www.trinitygnv.org/) _(Oct 1994 - Oct 2016)_ <br>
 System & Network Administrator, Computer Support, Teaching, Volunteering, Technology Evangelist.
   - Provide IT support and guide the infrastructure growth from TUMC’s first network, email server, and dial-up Internet connection to VoIP phone system, virtual servers, hosting five websites, and a fiber-optic connection.
   - Design, implement, and support for web servers, Google Apps, SQL, business applications, and all network services (cloud services, physical & virtual servers with over 50 workstations).
@@ -34,7 +34,7 @@ System & Network Administrator, Computer Support, Teaching, Volunteering, Techno
   - Migrated TUMC from Microsoft Exchange to Google Apps including users, mailboxes, shared address book contacts, and distribution lists.
 <br><br>
 
-**Systems Engineer** @ [LifeSouth Community Blood Center](https://www.lifesouth.org) _(Apr 2013 - Dec 2014)_ <br>
+**Systems Engineer** @ [LifeSouth Community Blood Center](https://www.lifesouth.org/) _(Apr 2013 - Dec 2014)_ <br>
   - Document servers, processes, procedures. Analyze and recommend hardware or software for purchase. Identify areas needing upgrade and recommend solutions. Monitor system performance and capacity. Provide user assistance. Identify cause of errors.
   - Determine, design, and test improvements while minimizing impact to blood collection and processing.
   - Moved from an internal Exchange 2010 server to hosted Office 365.
@@ -117,11 +117,11 @@ _Previously worked as a Windows System Administrator from Oct 2016 - Dec 2016_ <
 
 **President and Vice-President** @ [CompTIA Association of IT Professionals, NCFL Chapter](https://www.aitp-ncfl.org/) _(2015 - 2018)_<br>
 In support of its educational mission, the local chapter of AITP hosted monthly in-person presentations where discussions were led by local information technology speakers. The chapter also arranged member tours of local IT-related sites.
-  - [Presenter](https://docs.google.com/presentation/d/1pQv2ObuKRDwxFivsYMyLqEL1AwvD7fg15oCis98hXps/view) PC Malware History, Current Threats, and Removal 
+  - [Presenter](https://docs.google.com/presentation/d/1pQv2ObuKRDwxFivsYMyLqEL1AwvD7fg15oCis98hXps/view/) PC Malware History, Current Threats, and Removal 
   - Introduced speakers and faciliated Q&A sessions
   <br><br>
 
-  ## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education
 
 **MCSE** Microsoft Certified Systems Engineer<br>
 [Microsoft](https://www.microsoft.com/) -  <br>
